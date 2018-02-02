@@ -38,7 +38,7 @@ void actualizar() {
 		}
 	}
 }
-
+ 
 void dibujar() {
 	glPushMatrix();
 
